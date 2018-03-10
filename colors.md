@@ -1,6 +1,6 @@
 # German / English #
 
-[Home](/) [Colors](/colors) [Names](/names) [Tests](tests) [Objects](/objects) [Rules](/rules) 
+[Home](#) [Colors](colors) [Names](names) [Tests](tests) [Objects](objects) [Rules](rules) 
 
 ### Colors
 
