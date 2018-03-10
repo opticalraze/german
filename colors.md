@@ -105,8 +105,6 @@
 
 ![](https://www.omniglot.com/images/bullets/bullet_orange.gif) **orange - orange**
 
-
-
 ![](https://www.omniglot.com/images/bullets/bullet_grey.gif) **grau - grey**
 
 ##### Shades / expressions
@@ -124,9 +122,8 @@
 * violett = violet - the shade of violets
 * lila = lilac - the shade of lilac blossoms
 
-[^1]: the word "star" in this context comes from medieval German and means the blank stare of a blind person
 
 
+[1] the word "star" in this context comes from medieval German and means the blank stare of a blind person
 
-[Source]: https://www.omniglot.com/language/colours/german.php
-
+[Source](https://www.omniglot.com/language/colours/german.php )
