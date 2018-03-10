@@ -126,3 +126,7 @@
 
 [^1]: the word "star" in this context comes from medieval German and means the blank stare of a blind person
 
+
+
+[Source]: https://www.omniglot.com/language/colours/german.php
+
