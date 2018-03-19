@@ -1,3 +1,6 @@
+<head>
+  <title>German | Optical Raze</title>
+</head>
 <style>
   .topbar {
   background-color: black;
